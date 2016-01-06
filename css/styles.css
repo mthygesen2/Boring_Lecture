@@ -1,8 +1,5 @@
-h2.intro {
+div.intro {
   font-weight: bold;
-  font-style: italic;
-}
-p.intro {
   font-style: italic;
   text-align: center;
 }
