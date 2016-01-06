@@ -1,0 +1,12 @@
+h2.intro {
+  font-weight: bold;
+  font-style: italic;
+}
+p.intro {
+  font-style: italic;
+  text-align: center;
+}
+img.intro {
+  margin: 5px;
+  float: right;
+}
